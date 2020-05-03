@@ -1,4 +1,4 @@
-YTree https://www.yfull.com/tree/  is a tree of the company YFull was created in the 2013 year based on the tree ISOGG isogg.org/tree/ of the mutations on the Y chromosome. Since then, YTree is steadily increasing by using the creation of new branches and the separation of the existing subclades based on new NGS samples of the clients of YFull.
+YTree https://www.yfull.com/tree/  is a tree of the company YFull was created in the 2013 year based on the tree ISOGG https://isogg.org/tree/ of the mutations on the Y chromosome. Since then, YTree is steadily increasing by using the creation of new branches and the separation of the existing subclades based on new NGS samples of the clients of YFull.
 
 Also, for the developing YTree, YFull is using the NGS samples from the scientific papers. YFull shows on YTree the commercial and scientific samples. Every month YTree is updated.
 
